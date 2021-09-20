@@ -1,7 +1,7 @@
 ## DarkBlue Ice for ulauncher
 <img src='images/example.png'>
 
-### A Beautiful theme for ulauncher with Dark blue and ice colors distributed in a harmonic way. 
+### A Beautiful theme for ulauncher with dark blue and ice colors distributed in a harmonic way. 
 
 ---
 
